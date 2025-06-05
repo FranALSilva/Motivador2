@@ -2,7 +2,9 @@
 
 Este projeto é uma aplicação web simples feita com **Python + Flask** que exibe frases motivacionais de forma dinâmica no navegador. Ideal para aprender conceitos básicos de backend com Flask e integração com frontend (HTML, CSS e JS).
 
-![Uploading image.png…]()
+<p align="center">
+  <img alt="License" src="img.jpeg">
+</p>
 
 
 ## 🚀 Funcionalidades
